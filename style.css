@@ -46,7 +46,10 @@ header h4 {
    position: relative;
    display: inline-block;
    bottom: -20px;
+   font-size: 80px;
+   color: rgba(100, 221, 252, 0.671);
    opacity: 0;
+   letter-spacing: 4px;
 }
 
 .logo.active {
